@@ -1,30 +1,24 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: March 23, Monday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I've achive most of the funtions of the queue, so, it's almost done I just need to make some adjustments.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** 
+As I'm not good at proggraming, it was a big achivement for myself to make an almost funtional queue all by myself! 
+Big mood: I'm exited.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Queue in C lenguage](https://github.com/brenda-aline/PatronesParaDatosEstructurados/blob/407771dcff3af2db1b26a278bbdc88e3fc5a401f/ColasFIFO.c)
+
+### Day 2: March 24, Tuesday
+
+**Today's Progress**: I've completed the Queue!
+The four funtions work perfect.
+
+**Thoughts** 
+As I'm not good at proggraming, it was a big achivement for myself to make an funtional queue all by myself! 
+Big mood: I'm more than exited.
+
+**Link(s) to work**
+1. [Queue in C lenguage](https://github.com/brenda-aline/PatronesParaDatosEstructurados/blob/407771dcff3af2db1b26a278bbdc88e3fc5a401f/ColasFIFO.c)
