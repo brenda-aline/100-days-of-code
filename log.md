@@ -10,6 +10,7 @@ Big mood: I'm exited.
 
 **Link(s) to work**
 1. [Queue in C lenguage](https://github.com/brenda-aline/PatronesParaDatosEstructurados/blob/407771dcff3af2db1b26a278bbdc88e3fc5a401f/ColasFIFO.c)
+2. [Tweet](https://twitter.com/suckithoney_/status/1242538237039652868?s=19)
 
 ### Day 2: March 24, Tuesday
 
@@ -22,3 +23,4 @@ Big mood: I'm more than exited.
 
 **Link(s) to work**
 1. [Queue in C lenguage](https://github.com/brenda-aline/PatronesParaDatosEstructurados/blob/407771dcff3af2db1b26a278bbdc88e3fc5a401f/ColasFIFO.c)
+2. [Tweet](https://twitter.com/suckithoney_/status/1242538237039652868?s=19)
