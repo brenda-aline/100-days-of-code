@@ -1,6 +1,7 @@
 # #100DaysOfCode Log - Round 1 - Brenda Silva
 
 The log of my #100DaysOfCode challenge. Started on [March 23rd, Monday, 2020].
+The round 1 started on March 23rd, Monday, 2020. and Finished on March 24th, Tuesday, 2020.
 
 ## Log
 
@@ -9,7 +10,7 @@ Started a Queue with 4 functions, such as: add an element, show all the elements
 there are some details I still need to work on.
 
 ### R1D2
-Completed the queue, dixing the detailes I had on the first try! 
+Completed the queue, fixing the detailes I had on the first try! 
 So now it completely works!
 
 Link to work**
