@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 3 - Brenda Silva
+# #100DaysOfCode Log - Round 6 - Brenda Silva
 
 The log of my #100DaysOfCode challenge. Started on [March 23rd, Monday, 2020]. ||  
 The round 3 started on May 13, Monday, 2020. and Finished on May 15, Wednesday, 2020.
